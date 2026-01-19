@@ -68,7 +68,7 @@ Each query is written with:
 ---
 
 ## 📊 Power BI Dashboard: `Customer_Behaviour_dashboard.pbix`
-
+![Power BI Dashboard](image.png)
 ### Features:
 - Interactive filters (date, category, customer segment)
 - KPIs:
